@@ -1,4 +1,4 @@
-# because pires has stopped maintaining its repository updates are provided here
+# because pires stopped maintaining his repository updates are provided here
 
 [See original repository.](https://github.com/pires/docker-elasticsearch-curator)
 
